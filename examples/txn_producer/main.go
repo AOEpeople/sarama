@@ -17,7 +17,7 @@ import (
 
 	"github.com/rcrowley/go-metrics"
 
-	"github.com/IBM/sarama"
+	"github.com/Shopify/sarama"
 )
 
 // Sarama configuration options

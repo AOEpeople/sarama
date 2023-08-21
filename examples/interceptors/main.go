@@ -11,7 +11,7 @@ import (
 
 	"go.opentelemetry.io/otel/exporters/stdout"
 
-	"github.com/IBM/sarama"
+	"github.com/Shopify/sarama"
 )
 
 var (

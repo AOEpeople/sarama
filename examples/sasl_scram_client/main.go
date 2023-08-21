@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/IBM/sarama"
+	"github.com/Shopify/sarama"
 )
 
 func init() {
